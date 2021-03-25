@@ -1,6 +1,5 @@
 /*   
-  Project by Zua 
-  https://github.com/thatziv/webhook 
+    STEAL WITH CREDITS TO https://venom69tooop.github.io/web-webhook-sender/
 */
 $(function(){
     $('#btn').click(function(){
